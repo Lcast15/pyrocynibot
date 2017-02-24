@@ -29,4 +29,4 @@ Its main purpose is to reply with 'blunt' to those tweets, although is planned t
 
 ## Open Source?
 
-Yes
+Yes. The code is no longer used by Lcast15 Apps, and has no reason to be closed source now.
