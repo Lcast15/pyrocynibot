@@ -12,11 +12,11 @@ PyrocyniBot is a simple Twitter bot that replies to tweets by Pyrocynical (inter
 
 ## How To Use
 
-###1. **Install Libraries Required**
+### 1. **Install Libraries Required**
  > pip install python-twitter
-###2. Create a Twitter App, If You Haven't Already
+### 2. Create a Twitter App, If You Haven't Already
  Follow steps 1 & 2 of [this tutorial from Digital Ocean](https://www.digitalocean.com/community/tutorials/how-to-create-a-twitter-app). Disregard the other steps, we don't use them in this bot.
-###3. **Config the Bot**
+### 3. **Config the Bot**
  Open *pyrocynibot.py* in a text editor and change these variables to your own apps settings:
 ```
 ConsumerKey = 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx'
@@ -30,7 +30,7 @@ AccessTokenSecret = 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx'
 ```
 PyroAccount = 'xxxxxxxxxxxxxxxxxx'
 ```
-###4. **Start the Bot**
+### 4. **Start the Bot**
  By this point, the bot should run just fine. If you have an issue that isn't a config issue, please either contact me or use the issues feature on GitHub.
 
 ## Required Libraries
